@@ -1,0 +1,1 @@
+# vyoro-qa-case-study
