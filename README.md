@@ -10,8 +10,8 @@ Vyoro is a portfolio-based hiring platform that connects students, universities 
 
 ## What is in this repo
 - [Bug reports](bug-reports): the most important bugs written
-- [Test cases](test-cases/registration-test-cases.md): sample registration test cases
-- [Workflow redesign](flow-redesign/submission-flow.md): the project-submission fix
+- [Test cases](test-cases.md): sample registration test cases
+- [Workflow redesign](flow-redesign.md): the project-submission fix
 
 
 ## How I test
